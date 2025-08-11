@@ -50,7 +50,7 @@
     "react-native-svg-transformer": "^1.5.1",
     "react-native-web": "~0.20.0",
     "react-native-webview": "13.13.5",
-    "ts-pattern": "^5.7.1",
+    "ts-pattern": "^5.8.0",
     "yup": "^1.6.1",
     "@react-native-picker/picker": "2.11.1",
     "expo-linear-gradient": "~14.1.5",
